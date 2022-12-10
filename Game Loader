@@ -1,0 +1,18 @@
+if game.PlaceId == 2753915549 then --Blox Fruits
+  loadstring(game:HttpGet("https://raw.githubusercontent.com/ioshpere/Fun-Hub/main/Games/Blox%20Fruits", true))()
+end
+if game.PlaceId == 286090429 then --Arsenal
+  loadstring(game:HttpGet("https://raw.githubusercontent.com/ioshpere/Fun-Hub/main/Games/Arsenal", true))()
+end
+if game.PlaceId == 4282985734 then --Combat Warriors
+  loadstring(game:HttpGet("https://raw.githubusercontent.com/ioshpere/Fun-Hub/main/Games/Combat%20Warriors", true))()
+end
+if game.PlaceId == 2788229376 then --Da Hood
+  loadstring(game:HttpGet("https://raw.githubusercontent.com/ioshpere/Fun-Hub/main/Games/Da%20Hood", true))()
+end
+if game.PlaceId == 920587237 then --Adopt Me
+  loadstring(game:HttpGet("https://raw.githubusercontent.com/ioshpere/Fun-Hub/main/Games/Adopt%20Me", true))()
+end
+if game.PlaceId == 6447798030 then --Funky Friday
+  loadstring(game:HttpGet("https://raw.githubusercontent.com/ioshpere/Fun-Hub/main/Games/Funky%20Friday", true))()
+end
