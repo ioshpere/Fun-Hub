@@ -16,3 +16,7 @@ end
 if game.PlaceId == 6447798030 then --Funky Friday
   loadstring(game:HttpGet("https://raw.githubusercontent.com/ioshpere/Fun-Hub/main/Games/Funky%20Friday", true))()
 end
+end
+if game.PlaceId == 155615604 then --Prision Life
+  loadstring(game:HttpGet("https://raw.githubusercontent.com/ioshpere/Fun-Hub/main/Games/Prision%20Life", true))()
+end
