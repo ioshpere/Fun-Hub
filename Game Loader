@@ -1,13 +1,53 @@
 local MarketplaceService = game:GetService("MarketplaceService")
 local lastUpdated = MarketplaceService:GetProductInfo(game.PlaceId).Updated
 
-local ScriptName
-
 local supportedGames = {
-    [4483381587] = {
+    [2753915549] = {
+        "Blox Fruits",
+        "https://raw.githubusercontent.com/ioshpere/Fun-Hub/main/Games/Blox%20Fruits",
+        "Last Updated",
+        "Online",
+    },
+    [286090429] = {
+        "Arsenal",
+        "https://raw.githubusercontent.com/ioshpere/Fun-Hub/main/Games/Arsenal",
+        "Last Updated",
+        "Online",
+    },
+    [4282985734] = {
+        "Combat Warriors",
+        "https://raw.githubusercontent.com/frkfx/Combat-Warriors/main/Script",
+        "Last Updated",
+        "Online",
+    },
+    [2788229376] = {
+        "Da Hood",
+        "https://raw.githubusercontent.com/ioshpere/Fun-Hub/main/Games/Da%20Hood",
+        "Last Updated",
+        "Online",
+    },
+    [920587237] = {
+        "Adopt Me",
+        "https://raw.githubusercontent.com/ioshpere/Fun-Hub/main/Games/Adopt%20Me",
+        "Last Updated",
+        "Online",
+    },
+    [6447798030] = {
+        "Funky Friday",
+        "https://raw.githubusercontent.com/ioshpere/Fun-Hub/main/Games/Funky%20Friday",
+        "Last Updated",
+        "Online",
+    },
+    [155615604] = {
         "Prision Life",
         "https://raw.githubusercontent.com/ioshpere/Fun-Hub/main/Games/Prision%20Life",
-        "2022-12-22T16:43:16.123Z",
+        "Last Updated",
+        "Online",
+    },
+    ["PlaceId"] = {
+        "Name",
+        "URL",
+        "Last Updated",
         "Online",
     },
 }
