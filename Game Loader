@@ -39,8 +39,14 @@ local supportedGames = {
         "Online",
     },
     ["6284583030"] = {
-        "Pet Sim x",
+        "Pet Sim X",
         "https://milkup.info/script/PetSimulatorX/",
+        "Last Updated",
+        "Online",
+    },
+    ["6284583030"] = {
+        "Please Donate",
+        "https://raw.githubusercontent.com/1f0yt/community/master/saints",
         "Last Updated",
         "Online",
     },
