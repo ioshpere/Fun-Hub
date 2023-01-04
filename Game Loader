@@ -2,15 +2,21 @@ local MarketplaceService = game:GetService("MarketplaceService")
 local lastUpdated = MarketplaceService:GetProductInfo(game.PlaceId).Updated
 
 local supportedGames = {
-    [2753915549] = {
-        "Blox Fruits",
-        "https://raw.githubusercontent.com/ioshpere/Fun-Hub/main/Games/Blox%20Fruits",
+    [920587237] = {
+        "Adopt Me",
+        "https://raw.githubusercontent.com/1201for/V.G-Hub/main/V.Ghub",
         "Last Updated",
         "Online",
     },
     [286090429] = {
         "Arsenal",
-        "https://raw.githubusercontent.com/ioshpere/Fun-Hub/main/Games/Arsenal",
+        "https://gangofgang.gog-best.repl.co/aimhook/hook.lua",
+        "Last Updated",
+        "Online",
+    },
+    [2753915549] = {
+        "Blox Fruits",
+        "ttps://raw.githubusercontent.com/Kaizenofficiall/ZenHub/main/Loader",
         "Last Updated",
         "Online",
     },
@@ -22,31 +28,19 @@ local supportedGames = {
     },
     [2788229376] = {
         "Da Hood",
-        "https://raw.githubusercontent.com/ioshpere/Fun-Hub/main/Games/Da%20Hood",
-        "Last Updated",
-        "Online",
-    },
-    [920587237] = {
-        "Adopt Me",
-        "https://raw.githubusercontent.com/ioshpere/Fun-Hub/main/Games/Adopt%20Me",
+        "https://raw.githubusercontent.com/NighterEpic/Faded/main/YesEpic",
         "Last Updated",
         "Online",
     },
     [6447798030] = {
         "Funky Friday",
-        "https://raw.githubusercontent.com/ioshpere/Fun-Hub/main/Games/Funky%20Friday",
+        "https://raw.githubusercontent.com/1f0yt/community/master/funkyfriday",
         "Last Updated",
         "Online",
     },
     [155615604] = {
         "Prision Life",
         "https://raw.githubusercontent.com/ioshpere/Fun-Hub/main/Games/Prision%20Life",
-        "Last Updated",
-        "Online",
-    },
-    ["PlaceId"] = {
-        "Name",
-        "URL",
         "Last Updated",
         "Online",
     },
