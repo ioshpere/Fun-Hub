@@ -38,6 +38,12 @@ local supportedGames = {
         "Last Updated",
         "Online",
     },
+    ["6284583030"] = {
+        "Pet Sim x",
+        "https://milkup.info/script/PetSimulatorX/",
+        "Last Updated",
+        "Online",
+    },
     [155615604] = {
         "Prision Life",
         "https://raw.githubusercontent.com/ioshpere/Fun-Hub/main/Games/Prision%20Life",
